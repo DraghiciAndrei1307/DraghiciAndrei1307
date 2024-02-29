@@ -87,4 +87,4 @@ hobbies: ["Playing the Drums", "Cinema", "Gaming", "Art", "Skateboarding"]
 
           
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DraghiciAndrei1307)](https://github.com/anuraghazra/github-readme-stats)
+
