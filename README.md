@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img  src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hey%20Everyone!🕹️&fontSize=90" />
 </p>
 
-<h1 align="center">Let's Connect and have a Chat!</h1>
+<h1 align="center">Let's Connect and Have a Chat!</h1>
 
 <div align="center">
 <a href="https://www.instagram.com/andrei.d013/?hl=en">
