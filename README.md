@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Let's Connect and have a Chat!</h1>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/andrei.d013/?hl=en">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png"/>
 </a>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
