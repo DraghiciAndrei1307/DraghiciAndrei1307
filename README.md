@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
-<img src = "C:\Users\dragh\OneDrive\Desktop\teclado-elevado-techno.gif">
+<img src = "https://github.com/DraghiciAndrei1307/DraghiciAndrei1307/blob/main/teclado-elevado-techno.gif">
