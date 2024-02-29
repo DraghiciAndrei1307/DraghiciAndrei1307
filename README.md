@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_facebook-512.png"/>
 </a>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.linkedin.com/in/andrei-dr%C4%83ghici/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"/>
 </a>
 
