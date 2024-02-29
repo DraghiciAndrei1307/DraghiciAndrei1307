@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Let's Connect and have a Chat!</h1>
 
+<div align="center">
 <a href="https://www.instagram.com/andrei.d013/?hl=en">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png"/>
 </a>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/andrei-dr%C4%83ghici/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"/>
 </a>
-
+</div>
 
 
 <img src = "https://github.com/DraghiciAndrei1307/DraghiciAndrei1307/blob/main/teclado-elevado-techno.gif">
