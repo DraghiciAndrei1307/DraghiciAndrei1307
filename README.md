@@ -44,25 +44,21 @@ current_job: DataBase Administrator Jr.
 
 education:
 [
-
     "Self-Taught Game Developer"
     "Bachelor's in Computer Science"
 ]
 
 fields_of_interests:
 [
-
     "Web Development"
     "Game Development"
     "Database Administration"
     "UI/UX"
     "DevOps"
-
 ]
 
 technical_background:
 [
-
     "Database Administration Intern - SCHWARZ Global Services Hub ROMANIA"
 ]
 
