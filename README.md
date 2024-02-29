@@ -65,7 +65,6 @@ technical_background:[
 ]
 
 currently_learning: ["PostgreSQL, Podman and Ansible"]
-2024 Goals: [""]
 hobbies: ["Playing the Drums", "Cinema", "Gaming", "Art", "Skateboarding"]
 
 ```
