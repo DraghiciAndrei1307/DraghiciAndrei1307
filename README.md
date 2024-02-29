@@ -36,3 +36,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img src = "https://github.com/DraghiciAndrei1307/DraghiciAndrei1307/blob/main/teclado-elevado-techno.gif" width="400" height="200">
 </p>
+
+```yaml
+Name: Drăghici Andrei
+
+```
+
+
