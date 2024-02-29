@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<img src="https://giphy.com/embed/B2XS0BAWPhpQrD7gaG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>/>
+<img src="https://giphy.com/embed/B2XS0BAWPhpQrD7gaG" width="480" height="270" frameBorder="0" class="giphy-embed"/>
