@@ -42,7 +42,8 @@ name: Drăghici Andrei
 located_in: Bucharest, Romania
 current_job: DataBase Administrator Jr.
 
-education:[
+education:
+[
 
     "Self-Taught Game Developer"
     "Bachelor's in Computer Science"
