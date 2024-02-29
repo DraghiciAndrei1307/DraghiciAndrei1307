@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<div class="tenor-gif-embed" data-postid="27527485" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/teclado-elevado-techno-un-show-mas-gif-27527485">Teclado Elevado Techno GIF</a>from <a href="https://tenor.com/search/teclado+elevado-gifs">Teclado Elevado GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/en-GB/view/teclado-elevado-techno-un-show-mas-gif-27527485">
