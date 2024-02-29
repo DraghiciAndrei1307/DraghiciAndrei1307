@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Let's Connect and have a Chat!</h1>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png"/>
 </a>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_facebook-512.png"/>
