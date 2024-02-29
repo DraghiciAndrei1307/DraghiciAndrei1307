@@ -38,7 +38,35 @@ Here are some ideas to get you started:
 </p>
 
 ```yaml
-Name: Drăghici Andrei
+name: Drăghici Andrei
+located_in: Bucharest, Romania
+current_job: DataBase Administrator Jr.
+
+education:[
+
+    "Self-Taught Game Developer"
+    "Bachelor's in Computer Science"
+]
+
+fields_of_interests:
+[
+
+    "Web Development"
+    "Game Development"
+    "Database Administration"
+    "UI/UX"
+    "DevOps"
+
+]
+
+technical_background:[
+
+    "Database Administration Intern - SCHWARZ Global Services Hub ROMANIA"
+]
+
+currently_learning: ["PostgreSQL, Podman and Ansible"]
+2024 Goals: [""]
+hobbies: ["Playing the Drums", "Cinema", "Gaming", "Art", "Skateboarding"]
 
 ```
 
