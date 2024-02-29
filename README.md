@@ -60,7 +60,8 @@ fields_of_interests:
 
 ]
 
-technical_background:[
+technical_background:
+[
 
     "Database Administration Intern - SCHWARZ Global Services Hub ROMANIA"
 ]
