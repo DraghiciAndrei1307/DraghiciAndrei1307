@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-
+<p align="center">
 <img src = "https://github.com/DraghiciAndrei1307/DraghiciAndrei1307/blob/main/teclado-elevado-techno.gif">
+</p>
