@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-<img src = "https://github.com/DraghiciAndrei1307/DraghiciAndrei1307/blob/main/teclado-elevado-techno.gif">
+<img src = "https://github.com/DraghiciAndrei1307/DraghiciAndrei1307/blob/main/teclado-elevado-techno.gif" width="200" height="400">
 </p>
